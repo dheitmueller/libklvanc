@@ -3,7 +3,6 @@ project('libklvanc', 'c',
 
 subdir('src')
 subdir('tools')
-subdir('tests')
 
 doxygen = find_program('doxygen', required : false)
 

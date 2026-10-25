@@ -1,5 +1,5 @@
 AUTOMAKE_OPTIONS = foreign
-SUBDIRS = src tools tests
+SUBDIRS = src tools
 EXTRA_DIST = doxygen/libklvanc.doxyconf doxygen/include
 
 docs:
